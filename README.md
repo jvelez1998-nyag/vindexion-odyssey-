@@ -11,6 +11,8 @@ Features domain catalog for Vindexion eGRC
 
 ## Mission
 
+Project Odyssey transforms canonical product specifications into investor-grade, commercially differentiated, enterprise-ready product capabilities through product intelligence, stress testing, AI orchestration, world-model integration, and commercialization engineering.
+
 Project Odyssey is the official product engineering workstream for the Vindexion Enterprise Intelligence Operating System.
 
 Its mission is to define every customer-facing capability, feature, workflow, workspace, dashboard, AI interaction, and enterprise experience that organizations will ultimately purchase, deploy, and use.
